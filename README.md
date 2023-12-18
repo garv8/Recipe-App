@@ -1,8 +1,8 @@
-## Overview
+# Overview
 
 The Recipe Fetcher Android App is a simple application that allows users to sign in using their Google account and fetch recipes from the Spoonacular and MealDB APIs. This README provides a brief introduction to the app and its features.
 
-# Features
+## Features
 Google Account Sign-In:
 - Sign in effortlessly using your Google account for a personalized experience.
 
@@ -18,7 +18,7 @@ Navigation Drawer:
 - Access different sections of the app with ease through the convenient navigation drawer.
 - Navigate between Home, Favorites, and Settings effortlessly.
 
-Tech Stack
+## Tech Stack
 - Android Studio
 - Kotlin
 - Google Sign-In API
