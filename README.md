@@ -21,6 +21,7 @@ Navigation Drawer:
 ## Tech Stack
 - Android Studio
 - Kotlin
+- Java
 - Google Sign-In API
 - Spoonacular API
 - MealDB API
